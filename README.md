@@ -2,7 +2,7 @@
 
 Este repositório contém a resolução do case técnico para o processo seletivo de estágio. O projeto consiste em uma análise exploratória e estratégica sobre o comportamento de cancelamento e retenção de clientes de planos de saúde pet.
 
-## Resumo Executivo
+## Resumo 
 A análise identificou que o fator determinante para a retenção não é o preço, mas o uso efetivo do plano e dos serviços do ecossistema.
 
 * **Correlação de Uso:** Clientes que utilizam serviços adicionais apresentam uma taxa de retenção de 73%, significativamente superior à média.
@@ -15,7 +15,7 @@ Com base nos dados, foram sugeridas ações focadas em ROI e LTV:
 2.  **Transitividade de Planos:** Estratégia de upgrade para "heavy users" do plano básico e reposicionamento do Plano Avançado.
 3.  **Estratégia de Aquisição:** Parcerias para oferecer o "1º Banho Grátis", incentivando a criação do hábito de uso desde o primeiro mês de assinatura.
 
-## Stack Tecnológico
+## Stack 
 * **Linguagem:** Python 3
 * **Manipulação de Dados:** Pandas, Numpy
 * **Visualização:** Matplotlib, Seaborn
